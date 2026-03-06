@@ -24,24 +24,24 @@ Follow these instructions after creating a GitHub account:
 
 1. Open the terminal and enter:
 
-``bash
-- git config --global user.name "YourUsername"
-- git config --global user.email "your@mail.com"
-- git config --global --list  # Checks that the username and email are correctly registered
+bash: 
+- 'git config --global user.name "YourUsername"'
+- 'git config --global user.email "your@mail.com"'
+- 'git config --global --list  # Checks that the username and email are correctly registered'
 
 Then, open the terminal and enter the following commands:
 
 cd Desktop/folder-name
-- git add .
-- git commit -m "Your commit message"
-- git push -u origin main
+- 'git add .'
+- 'git commit -m "Your commit message"'
+- 'git push -u origin main'
 
 From VS Code:
 
 Select "Bash" in the terminal, then enter:
-- git add .
-- git commit -m "Your commit message"
-- git push -u origin main
+- 'git add .'
+- 'git commit -m "Your commit message"'
+- 'git push -u origin main'
 
 ## Auteur
 
