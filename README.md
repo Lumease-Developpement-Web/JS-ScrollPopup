@@ -31,7 +31,7 @@ bash:
 
 Then, open the terminal and enter the following commands:
 
-cd Desktop/folder-name
+- 'cd Desktop/folder-name'
 - 'git add .'
 - 'git commit -m "Your commit message"'
 - 'git push -u origin main'
